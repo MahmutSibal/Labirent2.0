@@ -19,7 +19,7 @@ python main.py
 
 
 *🎮 Nasıl Oynanır?*
-1. Oyunu başlatmak için *main.py* dosyasını çalıştırın.
+1. Oyunu başlatmak için *labirent.py* dosyasını çalıştırın.
 2. Ok tuşları veya belirlenen kontrol mekanizması ile labirentte hareket edin.
 3. Çıkışı bulun ve en kısa sürede tamamlamaya çalışın!
 
